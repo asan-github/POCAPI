@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.api.capability.application;
+package com.api.application;
 
 import java.util.Arrays;
 import java.util.HashSet;
